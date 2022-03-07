@@ -1,2 +1,2 @@
-# Computa-oGr-ficaDCC065-Trabalho
+# Computação Gráfica DCC065-Trabalho
 Kart game using the library ThreeJS
