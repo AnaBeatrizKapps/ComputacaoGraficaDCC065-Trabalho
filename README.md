@@ -1,2 +1,3 @@
 # Computação Gráfica DCC065 - Trabalho
-Kart game using the library ThreeJS
+
+Para executar esse trabalho é necessário usar a biblioteca **Live Server** do Visual Studio Code.
